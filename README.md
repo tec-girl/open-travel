@@ -50,3 +50,10 @@ Every request or event should carry `correlation_id`, `causation_id`, `schema_ve
 ## License
 
 Apache-2.0. See [LICENSE](LICENSE).
+
+
+## Contributors
+- [@tec-girl](https://github.com/tec-girl) — fork maintainer
+- [@psehgaft](https://github.com/psehgaft) — contributor
+- [@san985tos](https://github.com/san985tos) — contributor
+- [@frankjunker87-arch](https://github.com/frankjunker87-arch) — contributor
